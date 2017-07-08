@@ -1,4 +1,4 @@
-FROM tim03/baseimage-s
+FROM tim03/baseimage
 LABEL maintainer Chen, Wenli <chenwenli@chenwenli.com>
 
 WORKDIR /usr/src
